@@ -1,0 +1,2 @@
+hurtplayer()
+instance_destroy()

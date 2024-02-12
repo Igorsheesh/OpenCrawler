@@ -1,0 +1,1 @@
+global.coop = 0

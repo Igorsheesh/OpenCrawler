@@ -1,0 +1,1 @@
+other.firetran = 1

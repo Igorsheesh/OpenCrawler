@@ -1,0 +1,1 @@
+collectablenum = 1

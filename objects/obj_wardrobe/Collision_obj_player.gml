@@ -1,0 +1,1 @@
+drawtext = 1

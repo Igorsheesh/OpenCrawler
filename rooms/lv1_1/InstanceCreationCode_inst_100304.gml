@@ -1,0 +1,1 @@
+destroytiles = 1

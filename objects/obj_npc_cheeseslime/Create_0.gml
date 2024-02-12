@@ -1,0 +1,7 @@
+text = "DONT MIND THE GUY TO MY RIGHT. HE STILL THINKS\n THIS IS THE FIRST TEST BUILD.\nFOR CONTEXT: HE WAS USED AS A NPC TO BLOCK LEVEL 1\nAS IT WASNT FINISHED YET."
+active = 0
+delay = 30
+currentChar = 1
+panicking = 0
+spr_idle = 28
+spr_move = 102

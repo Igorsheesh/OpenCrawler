@@ -1,0 +1,5 @@
+draw_self()
+if (obj_player.sprite_index == obj_player.spr_peace && place_meeting(x, y, obj_player))
+    draw_sprite(asset_get_index(("spr_collectable" + string(collectablenum))), 0, obj_player.x, (obj_player.y - 50))
+else if (global.coop && obj_player2.sprite_index == obj_player2.spr_peace && place_meeting(x, y, obj_player2))
+    draw_sprite(asset_get_index(("spr_collectable" + string(collectablenum))), 0, obj_player.x, (obj_player.y - 50))

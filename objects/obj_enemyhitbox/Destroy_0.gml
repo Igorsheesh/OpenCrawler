@@ -1,0 +1,1 @@
+enemyid.hitboxid = -4
